@@ -1,3 +1,5 @@
+# Overview
+![Image](Screenshot.png)
 # How to setup Localy 
 1. Clone the repository
 2. Open the project in your favorite IDE
