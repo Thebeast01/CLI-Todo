@@ -1,5 +1,5 @@
 # Overview
-![Image](./Image/Screenshot.png)
+![Image](Image/ScreenShot.png)
 # How to setup Localy 
 1. Clone the repository
 2. Open the project in your favorite IDE
